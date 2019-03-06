@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpenTill Mobile</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_suppliers">Suppliers</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="complete_order">Click here to Complete Order</string>
+    <string name="clear">Clear</string>
+</resources>
